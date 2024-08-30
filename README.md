@@ -18,11 +18,11 @@ Técnica de programação que consiste em explorar todas as possíveis soluçõe
 
  "Mini-programas" que podem ser executados de forma concorrente dentro de um mesmo processo.
 
-## ⚠️ Pré-requisitos:
+## ⚠ Pré-requisitos:
  
 * Java Development Kit (JDK) instalado
 
-## ✏️ Autores
+## ✏ Autores
 
 Adilson Floro;
 José Piccin;
