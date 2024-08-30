@@ -1,4 +1,4 @@
-![rainha](duas-rainhas2)
+![rainha](duas-rainhas2.jpg)
 
 # 🖳 Sistemas Distribuídos - Trabalho Final 
 
@@ -25,6 +25,9 @@ Técnica de programação que consiste em explorar todas as possíveis soluçõe
 ## ®️ Autores
 
 Adilson Floro;
+
 José Piccin;
+
 Julia Lucena;
+
 Matheus Martineli.
